@@ -1,0 +1,141 @@
+input {
+    display:block;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 15px;
+    background-color: #1f0126;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1 {
+    color: #ef6be0;
+}
+label {
+    font-weight: bold;
+}
+input, select {
+    padding: 8px;
+    width: 200px;
+}
+select {
+    width: 215px;
+}
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container h2 {
+    text-align: center;
+}
+.container button {
+    width: 100%;
+}
+.container #result {
+    text-align: center;
+}
+#distance {
+    margin-bottom: 15px;
+}
+#kilometers {
+    margin-bottom: 15px;
+}
+#result {
+    color: #9c038a;
+}
+#distance, #kilometers {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#distance:focus, #kilometers:focus {
+    border-color: #c604b2fc;
+    outline: none;
+}
+body {
+    background-color: #f9f9f9;
+}
+.container {
+    background-color: #fff;
+}
+.container button {
+    background-color: #fd5fd0;
+}
+.container button:hover {
+    background-color: #d706f3;
+}
+label {
+    color: #ad068c;
+}
+input, select {
+    border: 1px solid #ddd;
+}
+input:focus, select:focus {
+    border-color: #7c036e;
+}
+#result {
+    font-size: 1.2em;
+}
+#result {
+    margin-top: 25px;
+}
+#result {
+    padding: 10px;
+    border: 1px solid #e65bb8;
+    border-radius: 4px;
+    background-color: #e7f1ff;
+}
+#result {
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+}
+#result {
+    text-align: center;
+}
+#result {
+    font-family: 'Courier New', Courier, monospace;
+}
+#result {
+    letter-spacing: 1px;
+}
+#result {
+    line-height: 1.5;
+}
+#result {
+    color: #ec7af7;
+}
+#result {
+    transition: all 0.3s ease;
+}
+#result:hover {
+    box-shadow: 0 0 10px rgba(212, 0, 255, 0.4);
+}
+#result {
+    font-weight: bold;
+}
+#result {
+    font-size: 1.3em;
+}
+#result {
+    margin-top: 30px;
+}
+#result {
+    padding: 15px;
+}
+#result {
+    border: 2px solid #67035e;
+}
